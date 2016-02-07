@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Berhitung</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Ayo Belajar Berhitung</string>
+    <string name="s_tambah">Penjumlahan</string>
+    <string name="s_kurang">Pengurangan</string>
+    <string name="s_kali">Perkalian</string>
+    <string name="s_bagi">Pembagian</string>
+    <string name="s_hitung">Operasi Hitung</string>
+    <string name="materi_tambah">
+        Operasi penjumlahan (tambah) adalah dasar dari operasi hitung pada sistem bilangan. Operasi penjumlahan selalu kita gunakan dalam kehidupan sehari-hari. Pembicaraan sehari-hari kita menggunakan “penjumlahan” untuk banyak tindakan yang berbeda. Sebagai contoh “penjumlahan sejumlah telur”. Disini kita butuh membedakan antara cara mengkombinasikan dua himpunan, dimana kita bisa menyebutnya sebagai kesatuan; dan cara mengkombinasikan dua bilangan, dimana kita boleh menyebutnya sebagai penjumlahan. Jadi penjumlahan dua bilangan, misalkan 5 dan 7, dapat disamakan dengan mengambil sembarang himpunan yang jumlahnya  adalah 5 dan sembarang himpunan yang jumlahnya 7.  Kesatuan ini digambarkan sebagai satu himpunan dan didapatkan jumlah dari himpunan baru ini.
+        \n\nSedangkan menurut Van De Walle (2006:155), jika beberapa bagian dari suatu himpunan sudah diketahui, penjumlahan digunakan untuk menyebut jumlah keseluruhan dari bagian-bagian tersebut. Definisi dari penjumlahan yang cukup sederhana bisa digunakan baik untuk situasi yang memerlukan aksi (penggabungan dan pemisahan) dan situasi statis yang tidak memerlukan adanya aksi.
+        \n\nLambang “+”  adalah lambang untuk operasi penjumlahan atau pertambahan, sehingga kalimat matematika seperti jumlah delapan dan lima sama dengan 13 ditulis secara symbol atau model matematika adalah “8 + 5 = 13.” Tanda + mulai dipakai pada abad ke-15 untuk menandai “karung padi-padian atau gamdum yang melebihi berat yang ditentukan sebelumnya”. (Wahyudin &#38; Sudrajat, 2003 :36)
+        \n\nTerdapat beberapa sifat penting dari operasi penjumlahan yang berlaku pada himpunan bilangan real. Sifat-sifat itu diantaranya sebagai berikut:
+        \n\n1.      Himpunan semua bilangan real tertutup operasi penjumlahan, yaitu untuk setiap real a dan b, maka a + b merupakan bilangan real.
+        \n\n2.      Operasi penjumlahan bersifat asosiatif, yaitu untuk setiap bilangan real a dan b berlaku :
+        \na + b = b + a
+        \nmisalnya 2 + 3 = 3 + 2
+        \n\n3.      Operasi penjumlahan bersifat asosiatif , yaitu untuk setiap bilangna real a, b, dan c berlaku
+        \na + (b + c) = (a + b) + c
+        \nmisalnya: 2 + (3 + 4) =(2 + 3) + 4 = 9
+        \n\n4.      Operasi penjumlahan pada himpunan semua bilangna real memiliki unsur identitas, yaitu 0,  karena untuk setiap bilangan real a berlaku
+        \na + 0 = 0 + a = a
+        \n\n5.      Setiap bilangan real a memiliki lawan terhadap operasi penjumlahan, yaitu (-a)
+        \nkarena  a + (-a) = (-a) + a = 0
+        \n\nSumber: <i>http://stillayu.blogspot.co.id/</i>
+    </string>
+    <string name="materi_kurang">
+        Menurut Van De Walle (2006:155), jika salah satu bagiannya dan totalnya sudah diketahui, maka pengurangan akan menghasilkan bagian yang satunya. Definisi ini sesuai dengan istilah “mengambil” yang sudah terlalu sering digunakan. Jika Anda memulai dengan total adalah 8, dan menghilangkan sejumlah 3, dua himpunan yang Anda  ketahui adalah 8 dan 3. Ekspresi 8-3 dibaca “delapan minus tiga” akan menghasilkan lima sisanya. Oleh karena itu delapan minus tiga adalah lima.
+        \n\nWahyudin (2003:36) mengatakan bahwa operasi pengurangan adalah lawan (invers) dari operasi tambah, misalnya “ 6 dikurangi dengan 5” sama artinya dengan “ 6 ditambah dengan lawan 5”, sehingga 6 – 5 = 6 + (-5) = 1
+        \nContoh lain:
+        \n1.      8 – 3 = 8 + (-3)
+        \n2.      – 2 – 7 = -2 + (-7)
+        \n\nJadi, untuk tiap bilangan a dan b berlaku a – b = a + (-b) , yaitu mengurangi dengan sebuah bilangan sama dengan menambahkan dengan lawan dari bilangan itu
+        \n\nSumber: <i>http://stillayu.blogspot.co.id/</i>
+    </string>
+    <string name="materi_kali">
+        Perkalian adalah penjumlahan berulang. (Van De Welle, 2003: 35) maksudnya adalah 3 x 5 sama artinya dengan 5 + 5 + 5 atau  ditulis 3 x 5 =5 + 5 + 5
+        \n\nPerkalian pada bilangan asli memiliki tiga sifat, yaitu komutatif, asosiatif dan distribusi penjumlahan. Jika a,b,n suatu bilangan maka akan berlaku:
+        \n\n1.      a x b =b x a                                      (komutatif)
+        \n2.      (a x b) x c =a x (b x c)                      (asosiatif)
+        \n3.      a x 1 = 1 x a = a                              (identitas perkalian)
+        \n4.      n x (a + b) =(n x a) + (n x b)           (distribusi penjumlahan)
+        \n\nSumber: <i>http://stillayu.blogspot.co.id/</i>
+    </string>
+    <string name="materi_bagi">
+        Pembagian didefinisikan sebagai berikut: a : b = c artinya adalah ada sekumpulan benda sebanyak a dibagi rata (sama banyak) dalam b kelompok. Maka cara membaginya dilakukan dengan pengambilan berulang sebanyak b sampai habis dengan setiap kali pengambilan dibagi rata ke semua kelompok. Banyaknya pengambilan ditunjukkan dengan hasil yang didapat oleh masing-masing kelompok yaitu c.  Hasil bagi (c) adalah banyaknya satuan pengambilan b dalam setiap kali mengambil untuk dibagi rata. Jika banyaknya anggota yang dimuat oleh masing-masing kelompok adalah c, maka banyaknya pengambilan b satuan sampai habis pada kumpulan benda sebanyak a adalah c kali. Mengapa? Sebab untuk setiap kali pengambilan sebanyak b anggota dari kumpulan benda beranggotakan a selalu dibagi rata pada masing-masing kelompok sebanyak b. Sehingga jika hasil pada masing-masing anggota adalah c, maka dapat dipastikan bahwa banyaknya satuan pengambilan b anggota sampai habis dari sekumpulan benda sebanyak a itu adalah c kali.
+        \n\nDalam membelajarkan pembagian dasar, peserta didik diberikan pengalaman membagi, misalnya dengan membagikan sejumlah barang kepada beberapa temannya. Dengan memberikan pengalaman, peserta didik akan selalu mengingat konsep pembagian tersebut di kepalanya. Selanjutnya dengan memberi banyak latihan, peserta didik diajak untuk mengamati hubungan antara bilangan yang dibagi, pembagi, dan hasil baginya. Setelah dicermati ternyata bilangan yang dibagi = pembagi x hasil bagi.
+        \n\nContoh:
+        \n1.        36 : 4 = 9 artinya adalah ada 9 kali pengambilan empatan sampai habis pada bilangan 36, dengan setiap kali pengambilan dibagi rata ke dalam 4 kelompok,
+        \n\n2.        30 : 6 = 5 artinya adalah ada 5 kali pengambilan enaman sampai habis pada bilangan 30, dengan setiap kali pengambilan dibagi rata ke dalam 6 kelompok, dan lain-lain.
+        \n\nSumber: <i>http://stillayu.blogspot.co.id/</i>
+    </string>
+    <string name="materi_operasi_hitung">
+        <b>a.       Penjumlahan dan pengurangan bilangan bulat</b>
+        \n\nCara penjumlahan bilangan bulat adalah sebagai berikut :
+        \n-          Jika kedua bilangan tandanya sama, maka :
+        \na.       Tanda hasil penjumlahan sama dengan tanda kedua buah bilangan
+        \nb.      Hailnya sama dengan penjumlahan kedua bilangan tersebut.
+        \n\nContoh soal :
+        \n1.      Hasil dari 15 + 15  = 30
+        \n2.      Hasil dari  -14 + (-20) = - 34
+        \n\n-          Jika kedua bilangan tandanya berbeda, maka:
+        \na.       Tanda hasil penjumlahan, sama dengan tanda bilangan terbesar dalam penjumlahan tersebut.
+        \nb.      Hasil sama dengan selisih antara bilangan terbesar dengan bilangan terkecil dalam penjumlahan tersebut
+        \n\nContoh soal :
+        \n1.      Hasil dari – 24 + 12 =
+        \n\nUntuk soal di atas ini silahkan baca kebali keterangan 2(a), bahwa tanda hasil penjumlahan sama dengan tanda bilangan terbesar dalam penjumlahan tersebut.
+        \n(Bilangan yang terbesar dalam penjumlahan tersebut adalah -24 maka hasilnya pun pasti – /mins).
+        \nKemudian perhatikan lagi 2(b)-nya. Hasilnya sama dengan selisih antara penjumlhan dua bilangan tersebut = 24 – 12 = 14. Maka jika digabungkan dengan 2(a) dan 2(b) hasilnya jadi -12.
+        \n\n2.      Hasil dari 85 – (-35) + (-45) =
+        \n\nUntuk soal seperti di atas, kerjakan terlebihdahulu dari sebelah kiri. Yaitu 85 – (-35) diubah menjadi 85 + 35 = 120 tinggal dikurangi dengan – 45. Menjadi seperti berikut 120 – 45 = 75
+        \n\n3.      Menurut prakiraan cuaca, suhu di Kp. Tarogong adalah 300C, sedangkan suhu di Kp. Cikandang -100C, selisih suhu dari kedua Kampung tersebut adalah….
+        \n\nUntuk menyelesaikan soal di atas maka perlu diuraikan terlebih dahulu konsep penghuitungannya  menjadi sebagai berikut :
+        \nSelisih suhu = Suhu Kp. Tarogong – Suhu Kp. Cikandang
+        \nSelisih suhu = 300C – (-100C)
+        \n= 30 + 10
+        \n= 400C
+        \n\n<b>b.      Perkalian dan pembagian bilangan bulat</b>
+        \n\nPada dasarnya perkalian bilangan bulat hamper sama dengan perkalian bilangan cacah. Namun pada perkalian bilangan bulat  terdapat aturan perkalian tanda dengan tententun :
+        \n(+) X (+) = (+)
+        \n(+) X (-)  = (-)
+        \n(-)  X (+  = (-)
+        \n(-)  X (-) = (+)
+        \n\nDalam operasi pembagian bilangan bulat juga berlaku suatu aturan, sebagai berikut :
+        \n(+) : (+) = (+)
+        \n(+) : (-)  = (-)
+        \n(-) : (+)  = (-)
+        \n(-) : (-)   = (+)
+        \n\n<b>c.       Operasi hitung campuran pada bilangan bulat</b>
+        \n\nUntuk mengerjakan operasi hitung campuran bilangan bulat, perlu diperhatikan urutan pengerjaannya sebagai berikut :
+        \n1.      Kerjakan operasi hitung yang terdapat dalam tanda kurung terlebih dahulu.
+        \n2.      Jika dalam operasi hitung terdapat operasi penjumlahan dan pengurangan, kerjakan dulu operasi hitu yang paling depan (sebelah kiri)
+        \n3.      Jika dalam perasi hitung campuran terdapat operasi hitung perkalian dan pembagian, kerjakan dulu operasi hitung yang paling depan (sebelah kiri)
+        \n4.      Kerjakan perkalian atau pembagian terlebih dahulu sebelum penjumlahan dan pengurangan.
+        \n\nContoh soal :
+        \n1.      34 x (-24) – (-4) = -816 – (-4)
+        \n= -816 + 4
+        \n= - 812
+        \n\n2.      (-75) : (-5) – (-13) = 5 – (-13)
+        \n= 5 + 13
+        \n= 18
+        \n\nSumber: <i>http://stillayu.blogspot.co.id/</i>
+    </string>
+
+</resources>
